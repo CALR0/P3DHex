@@ -1,0 +1,14 @@
+[
+  {
+    "name": "fds",
+    "active": true,
+    "onSend": true,
+    "onRecv": true,
+    "search": {
+      "6": "00"
+    },
+    "modify": {
+      "6": "47"
+    }
+  }
+]
